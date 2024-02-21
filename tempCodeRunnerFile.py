@@ -1,0 +1,1 @@
+b=Button(frame,text="Get weather Information",font=('Times',15,'italic'),command=get_info(e1.get()))
